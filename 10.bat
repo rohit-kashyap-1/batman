@@ -2,3 +2,4 @@
 
 ping-git.bat
 ping-git.bat
+ping-git.bat
