@@ -1,8 +1,16 @@
 @echo off
 echo "Hello world"
-git init 
+cd c:/users/study only/desktop/bat/
+
+dir
+echo "##############################################"
+
+echo this is demo content in file. > %random%.txt
+
+
 git add . 
-git remote add origin https://github.com/rohit-kashyap-1/batman.git
-git commit "hello %datestamp%"
+git commit "hello"
 git push origin master 
+
+echo "############################################"
 pause
