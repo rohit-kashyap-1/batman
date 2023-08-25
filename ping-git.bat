@@ -9,7 +9,7 @@ echo this is demo content in file. > %random%.txt
 
 
 git add . 
-git commit "hello"
+git commit -m "hello"
 git push origin master 
 
 echo "############################################"
